@@ -42,7 +42,10 @@ You can change this code and make a pull request if it works or fix the code if 
      - `VOICEVOX_BASE_URL`: The base URL of your Voicevox API.
      - `DEFAULT_SPEAKER`: The default speaker ID for Voicevox.
      - `GEMINI_API_KEY`: Your API key for Google Gemini (if applicable).
-
+       
+8. **Run Vtube Studio**:
+   set audio input from vtube studio if you have problems using it try using VB-CABLE.
+   
 7. **Run the Program**:
    ```bash
    python main.py
