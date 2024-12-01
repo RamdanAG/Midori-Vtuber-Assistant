@@ -2,6 +2,10 @@
 
 Midori VTuber Assistant is a simple AI-powered assistant for VTubers. It integrates the **Google Gemini** API for generating AI responses and **Voicevox** for converting text to speech, allowing seamless interaction. This program supports text input from various sources like terminal windows, command prompts, or other interfaces. Future updates may include a more interactive UI for enhanced usability.
 
+## Important
+I will live demo this system if it meets my needs and will probably make an API version of ChatGPT.
+You can change this code and make a pull request if it works or fix the code if there are any errors.
+
 ## Features
 - **AI Response Generation**: Uses Google Gemini API to provide intelligent responses.
 - **Text-to-Speech Conversion**: Converts text responses into natural-sounding audio using Voicevox.
